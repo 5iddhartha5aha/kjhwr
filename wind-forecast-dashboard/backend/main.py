@@ -8,7 +8,7 @@ app = api
 
 api.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["http://localhost:3000", "https://kjhwr-gwo2.vercel.app"],
     allow_credentials=False,
     allow_methods=["GET"],
     allow_headers=["*"],
