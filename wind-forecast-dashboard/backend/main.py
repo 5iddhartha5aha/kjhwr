@@ -4,6 +4,7 @@ import pandas as pd
 import app as data_pipeline
 
 api = FastAPI(title="Wind Forecast Analytics API")
+app = api
 
 api.add_middleware(
     CORSMiddleware,
