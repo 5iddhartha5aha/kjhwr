@@ -4,8 +4,7 @@ A web-based dashboard for analysing day-ahead UK wind generation forecasts again
 
 ## Live Application
 
-- **Frontend Dashboard:** [https://vercel.app](https://kjhwr-gwo2.vercel.app/)
-- **Backend API:** [https://vercel.app](https://kjhwr-azure.vercel.app/)
+- **Dashboard:** [https://vercel.app](https://kjhwr-gwo2.vercel.app/)
 - **API Documentation:** [https://vercel.appdocs](https://kjhwr-azure.vercel.app/docs)
 
 ## Features
